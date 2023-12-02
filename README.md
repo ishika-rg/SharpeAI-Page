@@ -1,3 +1,7 @@
+## Welcome! 👋
+
+Thanks for checking out this page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -19,49 +23,107 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Sharpe AI 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+![bandicam 2023-02-28 10-37-50-410](https://user-images.githubusercontent.com/90634018/224548844-d2b24ee2-9691-4e49-a6e1-431d2281c9f7.jpg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Techstack Used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+** React, Material UI**
 
-### Code Splitting
+## Project Description
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Designed and develop a simplified web application using React.js, Material UI ensuring seamless navigation using React Router, form input validation, error handling.
+Includes : 
+Home page
+Transaction Page
+Data Page
 
-### Analyzing the Bundle Size
+## Links
+ 📌 [Repository Link](https://github.com/ishika-rg/SharpeAI-Page)<br>
+ 📌 [Live Link](https://sharpeai16.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+    
+## Deployment 
+📌 Netlify
+## Output Images 
 
-### Making a Progressive Web App
+👉 Desktop Design
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<table>
+<tr>
 
-### Advanced Configuration
+<td>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+![bandicam 2023-02-28 10-38-09-137](https://user-images.githubusercontent.com/90634018/224548881-54fd5bfd-ec5d-4613-9bd3-1d03b19e884d.jpg)
+
+
+</td>
+<td>
+
+
+
+![bandicam 2023-02-28 10-38-22-951](https://user-images.githubusercontent.com/90634018/224548908-70282f8b-4815-4680-83c9-ef2a6f6e39d6.jpg)
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+👉 Mobile Design
+
+<table>
+<tr>
+<td>
+
+![bandicam 2023-02-28 10-39-13-925](https://user-images.githubusercontent.com/90634018/224548966-5eab92d0-d8ed-4deb-b989-86c9bd6eb8f8.jpg)
+
+
+</td>
+
+<td>
+
+
+
+
+![bandicam 2023-02-28 10-39-39-687](https://user-images.githubusercontent.com/90634018/224548979-e66263c1-58ee-455b-8903-0d6b92815380.jpg)
+
+</td>
+
+<td>
+
+
+![bandicam 2023-02-28 10-39-47-593](https://user-images.githubusercontent.com/90634018/224549049-34b12355-0c62-47fd-97b2-dd9c05be11c0.jpg)
+
+
+</td>
+
+
+</tr>
+
+
+
+</table>
+
+
+
+
+## Have fun building 🚀
+## Thank You ✨
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
